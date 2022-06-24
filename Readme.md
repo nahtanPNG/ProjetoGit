@@ -1,0 +1,1 @@
+ Olá esse projeto está sendo utilizado no meu estudo de como utilizar o Git!
