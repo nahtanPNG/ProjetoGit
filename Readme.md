@@ -8,4 +8,6 @@
 
  Git commit -m "NomeDoCommit" - Envia a alteração.
 
- Git remote add origin - Cria uma conexão com o repositório local com o repositório do github.
+ git remote set-url origin (Link);
+
+ git push -u origin main (main = master) - Enviando os commits do repositório local para o repositório do github.
