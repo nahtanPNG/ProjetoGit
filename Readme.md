@@ -3,6 +3,7 @@
  Git init - Criando um repositório com a branch master.
 
  Git add nome_do_arquivo - Manda uma alteração e ela fica em stading.
+     Git add . - envia todos as alterações
 
  Git status - Verifica os status das alterações e commits
 
