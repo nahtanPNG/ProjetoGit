@@ -1,4 +1,6 @@
- Olá esse projeto está sendo utilizado no meu estudo de como utilizar o Git!
+ # Olá esse projeto está sendo utilizado no meu estudo de como utilizar o Git!
+
+## COMANDOS
 
  Git init - Criando um repositório com a branch master.
 
@@ -12,3 +14,5 @@
  git remote set-url origin (Link);
 
  git push -u origin main (main = master) - Enviando os commits do repositório local para o repositório do github.
+
+ git checkout -b - cria uma nova branch e com o checkout ja sai da branch anterior e entra na nova
